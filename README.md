@@ -1,2 +1,2 @@
-# Mini_Projects
-This repository contains mini-projects performed in python language.
+# Web scapping
+This repository contains webscrapping-projects performed in python language.
